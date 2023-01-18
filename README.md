@@ -1,4 +1,4 @@
-## Flutter UI - Insta Like Button
+## Flutter UI - Instagram Like
 
 ```dart
 void main() => runApp(const MaterialApp(
@@ -9,8 +9,8 @@ void main() => runApp(const MaterialApp(
 
 ## Development Setup
 ```
-git clone https://github.com/afifcodes/flutter-insta-like-button-example.git
-cd flutter-insta-like-button-example
+git clone https://github.com/afifcodes/flutter-instagram-like-example.git
+cd flutter-instagram-like-example
 flutter pub get
 flutter run
 ```
